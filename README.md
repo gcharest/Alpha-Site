@@ -1,6 +1,7 @@
 # Alpha Site
 
-[![Build Status](https://teamcity.dts-stn.com/app/rest/builds/buildType:(id:Dev_AlphaSite_Build)/statusIcon)](https://teamcity.dts-stn.com/viewType.html?buildTypeId=Dev_AlphaSite_Build&guest=1)
+[![Build Status](https://teamcity.dts-stn.com/app/rest/builds/buildType:(id:Dev_AlphaSite_Build)[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fgcharest%2FAlpha-Site.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fgcharest%2FAlpha-Site?ref=badge_shield)
+/statusIcon)](https://teamcity.dts-stn.com/viewType.html?buildTypeId=Dev_AlphaSite_Build&guest=1)
 [![link](https://img.shields.io/badge/link-%F0%9F%94%97-brightgreen)](https://alphasite-main.dev.dts-stn.com/)
 
 
@@ -79,3 +80,7 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fgcharest%2FAlpha-Site.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fgcharest%2FAlpha-Site?ref=badge_large)
